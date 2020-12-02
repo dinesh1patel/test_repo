@@ -13,3 +13,5 @@ print("\n")
 # Iterate over index 
 for element in range(0, len(s1)): 
     print(s1[element])
+
+print("commited")
